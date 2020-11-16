@@ -7,3 +7,4 @@
 - 佐々木 ikokamaru46/IoT2020
 - 彭博 pb13144/IoT2020
 - 田村 namesin/IoT2020
+- 小松 Lunaty1341/IoT2020
